@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "1096095518899",
+    "firebase_url": "https://e-commerceonlineshopping-1d0b8.firebaseio.com",
+    "project_id": "e-commerceonlineshopping-1d0b8",
+    "storage_bucket": "e-commerceonlineshopping-1d0b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096095518899:android:5739fdbb96b56869faa0c6",
+        "android_client_info": {
+          "package_name": "com.example.h2vape"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096095518899-hobebifo5qiu3li177lb8dqspnpanfru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.h2vape",
+            "certificate_hash": "3ff2b1feb7556d4992338391e18551689d74f5ee"
+          }
+        },
+        {
+          "client_id": "1096095518899-f15r8cqucqgla5t569perjgom46e6ao4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBexd-4ps8_21F_rSf8Yt2rGGKotmyyxGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096095518899-f15r8cqucqgla5t569perjgom46e6ao4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096095518899:android:dc0f68810461ab5e",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.e_commerceonlineshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096095518899-0k3b2tchm95tfrpjvmevnpuqp17gi8fn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.e_commerceonlineshopping",
+            "certificate_hash": "3ff2b1feb7556d4992338391e18551689d74f5ee"
+          }
+        },
+        {
+          "client_id": "1096095518899-f15r8cqucqgla5t569perjgom46e6ao4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBexd-4ps8_21F_rSf8Yt2rGGKotmyyxGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096095518899-f15r8cqucqgla5t569perjgom46e6ao4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

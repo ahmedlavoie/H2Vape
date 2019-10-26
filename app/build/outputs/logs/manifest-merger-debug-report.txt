@@ -1,63 +1,125 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:2:1-21:12
-MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\5bf030364be1628a6f9f63ab6e371a98\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\c369453059780401f98905dc383c3b09\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\d8e4cf1c5effa27ee872934b5d590923\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\42ac22b99008b274c7933ade81dbb76f\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\5e75dc9500a8800a19ee48edcd9ad91b\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8138252b08e2926be578c6ca607972da\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6d97eb0f6d8183ed301f22cca813399a\vectordrawable-1.0.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\35c3fbd601ae0234480e07fc02c66070\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\bc5fd2321421e1868cfcd17b87b15ef9\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8bebfd56772390b0c7c5a30636a918a8\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4e2b5312859a4add836ca427f9185971\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\521f36082ba2ebfff3134b14049d8392\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\1410242d4ef985e32783d8097bac5af8\customview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\80daeaca6f036ab992d59d7f985648c0\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ba941ec3e51f9e63a28205390b7e1196\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.0.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\c9abde3d00d5c35e349279d839666d3e\core-1.0.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\f6fea268062bfa2343b0f3ab3dd91fca\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\3a157abb854187fccd45caa1b51d7a6d\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\b18dae995bcdf20fc7dd2fe5b67b8a1e\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\a4800bd69aa5f1fb4a3075fb1b945104\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\728270ae329d44b91e2272f2a2469b7f\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\424f8cee47ad96d5bf5ccdac145707ac\print-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ba1861cb5fdc02af084f1b568e0f9bd4\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\3315cd4f34fecbb914c0547ad83f8664\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\f33aa17185c3708a5ad836b0b67dcf82\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4035bab8ba83c8378e720680d30eb8a9\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\d9e1c8e93250f2776f11901c821c4137\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\79ea33727dbb615731043dc479b582c4\firebase-analytics-17.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\123059bf7aea0daf959dca26a804b21c\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4ac3c04a42c9689f722570467126ad06\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ff55ea9c0bd4f6f137a7d1e3c1e7f716\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\e6d5e890a7348e32e700d6bbb1c35da9\jetified-firebase-database-17.0.0\AndroidManifest.xml:15:1-36:12
+MERGED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\50f9d9050df2010e341e31c048e17eff\firebase-auth-19.1.0\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\cf4747821f57b77f8a45e6dc5e79d8dd\play-services-measurement-api-17.2.0\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\967a1773acf4805c3bacd8a2b2a28792\play-services-measurement-sdk-17.2.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\527f5251c1176b487bee7dc466a737a2\firebase-auth-interop-18.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6572031269ead5bf372de68642070dfe\firebase-iid-19.0.0\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\31e6c18459e1cc6292d7fedb9448ab0d\firebase-iid-interop-17.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\fa03aa00ddb60c22ea6ea5451bdbeaf5\play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\861a5143dc632d7b424f037d7b6f1c05\firebase-common-19.0.0\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\64332941fb75e7711a586a6337944ff1\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4e8b1e6eccccca8331222d0238d2a57f\play-services-measurement-impl-17.2.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\dfd4aa399f946b6bb497761eba82e7d6\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\d40046e1fbf4c7e71ad6bb5f769ac8fa\play-services-measurement-base-17.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6e7346cf760717a5b77dab0556faabd7\play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\2e424efeb4d911931c324b1987af749f\firebase-measurement-connector-18.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\7ab85701306401720ca8ac311049fa58\play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\5cb4efa373c277ab44939b10d3ac6062\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\33c86770f6216ccb7826f3c8141dccf0\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\bd15599d33fa85ea85e0852313158719\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\f0548bab8cb55ee97ea567946da1dfb9\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\c35cee03396f83d38385952404675143\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\aa4aa1195488203645b33d7d94ed2e23\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\691ab7cc815fdfa665d0337398211b73\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4799dea1b37e02b17acacabaeed05bf4\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\e86cd78db25ce8e98aafd94134f36531\vectordrawable-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\2b0808c17e6886062677dbd9429b0bcb\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\d4fe975bcc6f6848d8b1d428317106e1\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\d29465916974a82272174f020b67ed29\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\b1959bcc030e7cb8538aa179ba2a30b1\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8d524d264b0850949ad8d7bd5a8a61a5\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ae2f5357bd97b1ea37944359bf914746\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\75dea0212ff5e82b0bf90c2c9d8242ce\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\568f6a89342779aa742b3c3564e0650a\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\c03433a4983f62c9fc5371a6816871e2\core-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\71bea9d0d4312c6e326de3c1fadfa1a6\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\e8b5ccbb9a517ff1e90271de68c77b14\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\e5a255375be21bfc691a40885992fe3c\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\d84bc586820a16e30742421075f45491\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\63ae48842f9be935c9d48451dadda15b\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\a01f32fc24beba1d900ba9ed07afbe20\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\b6615c32f9952dc667953c50dbcec0a1\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57235ae3ff54182abc22aa294c3ef87b\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\f7cfd9105db3cf71d6af907891b58782\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\1952f087055413aed54cb36cdb6b053f\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8b448c80e5b98e029fa35c593d70fd73\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\e01a8ab0aac3fc7594211a1c69f364b7\firebase-database-collection-16.0.1\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:2:1-22:12
 	package
 		ADDED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:3:5-33
 		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:2:1-21:12
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:2:1-22:12
 		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:2:1-21:12
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:2:1-22:12
 		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:5:5-19:19
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\c369453059780401f98905dc383c3b09\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\c369453059780401f98905dc383c3b09\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
-MERGED from [androidx.core:core:1.0.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\c9abde3d00d5c35e349279d839666d3e\core-1.0.1\AndroidManifest.xml:22:5-89
-MERGED from [androidx.core:core:1.0.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\c9abde3d00d5c35e349279d839666d3e\core-1.0.1\AndroidManifest.xml:22:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\f6fea268062bfa2343b0f3ab3dd91fca\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\f6fea268062bfa2343b0f3ab3dd91fca\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\79ea33727dbb615731043dc479b582c4\firebase-analytics-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\79ea33727dbb615731043dc479b582c4\firebase-analytics-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\123059bf7aea0daf959dca26a804b21c\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\123059bf7aea0daf959dca26a804b21c\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ff55ea9c0bd4f6f137a7d1e3c1e7f716\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ff55ea9c0bd4f6f137a7d1e3c1e7f716\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\e6d5e890a7348e32e700d6bbb1c35da9\jetified-firebase-database-17.0.0\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\e6d5e890a7348e32e700d6bbb1c35da9\jetified-firebase-database-17.0.0\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\50f9d9050df2010e341e31c048e17eff\firebase-auth-19.1.0\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\50f9d9050df2010e341e31c048e17eff\firebase-auth-19.1.0\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\cf4747821f57b77f8a45e6dc5e79d8dd\play-services-measurement-api-17.2.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\cf4747821f57b77f8a45e6dc5e79d8dd\play-services-measurement-api-17.2.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\967a1773acf4805c3bacd8a2b2a28792\play-services-measurement-sdk-17.2.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\967a1773acf4805c3bacd8a2b2a28792\play-services-measurement-sdk-17.2.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\527f5251c1176b487bee7dc466a737a2\firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\527f5251c1176b487bee7dc466a737a2\firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6572031269ead5bf372de68642070dfe\firebase-iid-19.0.0\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6572031269ead5bf372de68642070dfe\firebase-iid-19.0.0\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\31e6c18459e1cc6292d7fedb9448ab0d\firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\31e6c18459e1cc6292d7fedb9448ab0d\firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\fa03aa00ddb60c22ea6ea5451bdbeaf5\play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\fa03aa00ddb60c22ea6ea5451bdbeaf5\play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\861a5143dc632d7b424f037d7b6f1c05\firebase-common-19.0.0\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\861a5143dc632d7b424f037d7b6f1c05\firebase-common-19.0.0\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\64332941fb75e7711a586a6337944ff1\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\64332941fb75e7711a586a6337944ff1\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4e8b1e6eccccca8331222d0238d2a57f\play-services-measurement-impl-17.2.0\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4e8b1e6eccccca8331222d0238d2a57f\play-services-measurement-impl-17.2.0\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\d40046e1fbf4c7e71ad6bb5f769ac8fa\play-services-measurement-base-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\d40046e1fbf4c7e71ad6bb5f769ac8fa\play-services-measurement-base-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6e7346cf760717a5b77dab0556faabd7\play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6e7346cf760717a5b77dab0556faabd7\play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\2e424efeb4d911931c324b1987af749f\firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\2e424efeb4d911931c324b1987af749f\firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\7ab85701306401720ca8ac311049fa58\play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\7ab85701306401720ca8ac311049fa58\play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\5cb4efa373c277ab44939b10d3ac6062\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\5cb4efa373c277ab44939b10d3ac6062\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\c03433a4983f62c9fc5371a6816871e2\core-1.0.1\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\c03433a4983f62c9fc5371a6816871e2\core-1.0.1\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\71bea9d0d4312c6e326de3c1fadfa1a6\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\71bea9d0d4312c6e326de3c1fadfa1a6\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.0.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\c9abde3d00d5c35e349279d839666d3e\core-1.0.1\AndroidManifest.xml:22:18-86
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\c03433a4983f62c9fc5371a6816871e2\core-1.0.1\AndroidManifest.xml:22:18-86
 	android:supportsRtl
 		ADDED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
@@ -70,78 +132,130 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Le
 		ADDED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.h2vape.SignupActivity
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:12:9-61
+	android:name
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:12:19-49
 activity#com.example.h2vape.MainActivity
-ADDED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:13:9-19:20
 	android:name
-		ADDED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:13:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml:17:27-74
 uses-sdk
 INJECTED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml
-MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\5bf030364be1628a6f9f63ab6e371a98\appcompat-1.0.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\5bf030364be1628a6f9f63ab6e371a98\appcompat-1.0.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\c369453059780401f98905dc383c3b09\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\c369453059780401f98905dc383c3b09\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\d8e4cf1c5effa27ee872934b5d590923\fragment-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\d8e4cf1c5effa27ee872934b5d590923\fragment-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\42ac22b99008b274c7933ade81dbb76f\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\42ac22b99008b274c7933ade81dbb76f\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\5e75dc9500a8800a19ee48edcd9ad91b\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\5e75dc9500a8800a19ee48edcd9ad91b\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8138252b08e2926be578c6ca607972da\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8138252b08e2926be578c6ca607972da\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6d97eb0f6d8183ed301f22cca813399a\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6d97eb0f6d8183ed301f22cca813399a\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\35c3fbd601ae0234480e07fc02c66070\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\35c3fbd601ae0234480e07fc02c66070\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\bc5fd2321421e1868cfcd17b87b15ef9\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\bc5fd2321421e1868cfcd17b87b15ef9\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8bebfd56772390b0c7c5a30636a918a8\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8bebfd56772390b0c7c5a30636a918a8\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4e2b5312859a4add836ca427f9185971\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4e2b5312859a4add836ca427f9185971\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\521f36082ba2ebfff3134b14049d8392\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\521f36082ba2ebfff3134b14049d8392\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\1410242d4ef985e32783d8097bac5af8\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\1410242d4ef985e32783d8097bac5af8\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\80daeaca6f036ab992d59d7f985648c0\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\80daeaca6f036ab992d59d7f985648c0\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ba941ec3e51f9e63a28205390b7e1196\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ba941ec3e51f9e63a28205390b7e1196\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\c9abde3d00d5c35e349279d839666d3e\core-1.0.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\c9abde3d00d5c35e349279d839666d3e\core-1.0.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\f6fea268062bfa2343b0f3ab3dd91fca\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\f6fea268062bfa2343b0f3ab3dd91fca\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\3a157abb854187fccd45caa1b51d7a6d\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\3a157abb854187fccd45caa1b51d7a6d\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\b18dae995bcdf20fc7dd2fe5b67b8a1e\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\b18dae995bcdf20fc7dd2fe5b67b8a1e\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\a4800bd69aa5f1fb4a3075fb1b945104\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\a4800bd69aa5f1fb4a3075fb1b945104\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\728270ae329d44b91e2272f2a2469b7f\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\728270ae329d44b91e2272f2a2469b7f\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\424f8cee47ad96d5bf5ccdac145707ac\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\424f8cee47ad96d5bf5ccdac145707ac\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ba1861cb5fdc02af084f1b568e0f9bd4\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ba1861cb5fdc02af084f1b568e0f9bd4\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\3315cd4f34fecbb914c0547ad83f8664\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\3315cd4f34fecbb914c0547ad83f8664\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\f33aa17185c3708a5ad836b0b67dcf82\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\f33aa17185c3708a5ad836b0b67dcf82\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4035bab8ba83c8378e720680d30eb8a9\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4035bab8ba83c8378e720680d30eb8a9\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\d9e1c8e93250f2776f11901c821c4137\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\d9e1c8e93250f2776f11901c821c4137\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\79ea33727dbb615731043dc479b582c4\firebase-analytics-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\79ea33727dbb615731043dc479b582c4\firebase-analytics-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\123059bf7aea0daf959dca26a804b21c\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\123059bf7aea0daf959dca26a804b21c\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4ac3c04a42c9689f722570467126ad06\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4ac3c04a42c9689f722570467126ad06\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ff55ea9c0bd4f6f137a7d1e3c1e7f716\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ff55ea9c0bd4f6f137a7d1e3c1e7f716\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\e6d5e890a7348e32e700d6bbb1c35da9\jetified-firebase-database-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\e6d5e890a7348e32e700d6bbb1c35da9\jetified-firebase-database-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\50f9d9050df2010e341e31c048e17eff\firebase-auth-19.1.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\50f9d9050df2010e341e31c048e17eff\firebase-auth-19.1.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\cf4747821f57b77f8a45e6dc5e79d8dd\play-services-measurement-api-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\cf4747821f57b77f8a45e6dc5e79d8dd\play-services-measurement-api-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\967a1773acf4805c3bacd8a2b2a28792\play-services-measurement-sdk-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\967a1773acf4805c3bacd8a2b2a28792\play-services-measurement-sdk-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\527f5251c1176b487bee7dc466a737a2\firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\527f5251c1176b487bee7dc466a737a2\firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6572031269ead5bf372de68642070dfe\firebase-iid-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6572031269ead5bf372de68642070dfe\firebase-iid-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\31e6c18459e1cc6292d7fedb9448ab0d\firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\31e6c18459e1cc6292d7fedb9448ab0d\firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\fa03aa00ddb60c22ea6ea5451bdbeaf5\play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\fa03aa00ddb60c22ea6ea5451bdbeaf5\play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\861a5143dc632d7b424f037d7b6f1c05\firebase-common-19.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\861a5143dc632d7b424f037d7b6f1c05\firebase-common-19.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\64332941fb75e7711a586a6337944ff1\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\64332941fb75e7711a586a6337944ff1\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4e8b1e6eccccca8331222d0238d2a57f\play-services-measurement-impl-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4e8b1e6eccccca8331222d0238d2a57f\play-services-measurement-impl-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\dfd4aa399f946b6bb497761eba82e7d6\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\dfd4aa399f946b6bb497761eba82e7d6\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\d40046e1fbf4c7e71ad6bb5f769ac8fa\play-services-measurement-base-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\d40046e1fbf4c7e71ad6bb5f769ac8fa\play-services-measurement-base-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6e7346cf760717a5b77dab0556faabd7\play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6e7346cf760717a5b77dab0556faabd7\play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\2e424efeb4d911931c324b1987af749f\firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\2e424efeb4d911931c324b1987af749f\firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\7ab85701306401720ca8ac311049fa58\play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\7ab85701306401720ca8ac311049fa58\play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\5cb4efa373c277ab44939b10d3ac6062\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\5cb4efa373c277ab44939b10d3ac6062\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\33c86770f6216ccb7826f3c8141dccf0\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\33c86770f6216ccb7826f3c8141dccf0\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\bd15599d33fa85ea85e0852313158719\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\bd15599d33fa85ea85e0852313158719\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\f0548bab8cb55ee97ea567946da1dfb9\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\f0548bab8cb55ee97ea567946da1dfb9\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\c35cee03396f83d38385952404675143\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\c35cee03396f83d38385952404675143\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\aa4aa1195488203645b33d7d94ed2e23\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\aa4aa1195488203645b33d7d94ed2e23\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\691ab7cc815fdfa665d0337398211b73\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\691ab7cc815fdfa665d0337398211b73\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4799dea1b37e02b17acacabaeed05bf4\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4799dea1b37e02b17acacabaeed05bf4\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\e86cd78db25ce8e98aafd94134f36531\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\e86cd78db25ce8e98aafd94134f36531\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\2b0808c17e6886062677dbd9429b0bcb\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\2b0808c17e6886062677dbd9429b0bcb\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\d4fe975bcc6f6848d8b1d428317106e1\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\d4fe975bcc6f6848d8b1d428317106e1\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\d29465916974a82272174f020b67ed29\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\d29465916974a82272174f020b67ed29\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\b1959bcc030e7cb8538aa179ba2a30b1\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\b1959bcc030e7cb8538aa179ba2a30b1\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8d524d264b0850949ad8d7bd5a8a61a5\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8d524d264b0850949ad8d7bd5a8a61a5\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ae2f5357bd97b1ea37944359bf914746\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\ae2f5357bd97b1ea37944359bf914746\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\75dea0212ff5e82b0bf90c2c9d8242ce\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\75dea0212ff5e82b0bf90c2c9d8242ce\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\568f6a89342779aa742b3c3564e0650a\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\568f6a89342779aa742b3c3564e0650a\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\c03433a4983f62c9fc5371a6816871e2\core-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\c03433a4983f62c9fc5371a6816871e2\core-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\71bea9d0d4312c6e326de3c1fadfa1a6\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\71bea9d0d4312c6e326de3c1fadfa1a6\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\e8b5ccbb9a517ff1e90271de68c77b14\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\e8b5ccbb9a517ff1e90271de68c77b14\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\e5a255375be21bfc691a40885992fe3c\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\e5a255375be21bfc691a40885992fe3c\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\d84bc586820a16e30742421075f45491\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\d84bc586820a16e30742421075f45491\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\63ae48842f9be935c9d48451dadda15b\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\63ae48842f9be935c9d48451dadda15b\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\a01f32fc24beba1d900ba9ed07afbe20\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\a01f32fc24beba1d900ba9ed07afbe20\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\b6615c32f9952dc667953c50dbcec0a1\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\b6615c32f9952dc667953c50dbcec0a1\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57235ae3ff54182abc22aa294c3ef87b\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57235ae3ff54182abc22aa294c3ef87b\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\f7cfd9105db3cf71d6af907891b58782\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\f7cfd9105db3cf71d6af907891b58782\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\1952f087055413aed54cb36cdb6b053f\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\1952f087055413aed54cb36cdb6b053f\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8b448c80e5b98e029fa35c593d70fd73\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8b448c80e5b98e029fa35c593d70fd73\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\e01a8ab0aac3fc7594211a1c69f364b7\firebase-database-collection-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\e01a8ab0aac3fc7594211a1c69f364b7\firebase-database-collection-16.0.1\AndroidManifest.xml:5:5-44
 INJECTED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
@@ -152,3 +266,187 @@ INJECTED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidM
 		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\H2Vape\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\e6d5e890a7348e32e700d6bbb1c35da9\jetified-firebase-database-17.0.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\cf4747821f57b77f8a45e6dc5e79d8dd\play-services-measurement-api-17.2.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\cf4747821f57b77f8a45e6dc5e79d8dd\play-services-measurement-api-17.2.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6572031269ead5bf372de68642070dfe\firebase-iid-19.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6572031269ead5bf372de68642070dfe\firebase-iid-19.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4e8b1e6eccccca8331222d0238d2a57f\play-services-measurement-impl-17.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4e8b1e6eccccca8331222d0238d2a57f\play-services-measurement-impl-17.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\dfd4aa399f946b6bb497761eba82e7d6\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\dfd4aa399f946b6bb497761eba82e7d6\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\e6d5e890a7348e32e700d6bbb1c35da9\jetified-firebase-database-17.0.0\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\e6d5e890a7348e32e700d6bbb1c35da9\jetified-firebase-database-17.0.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\cf4747821f57b77f8a45e6dc5e79d8dd\play-services-measurement-api-17.2.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\cf4747821f57b77f8a45e6dc5e79d8dd\play-services-measurement-api-17.2.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6572031269ead5bf372de68642070dfe\firebase-iid-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6572031269ead5bf372de68642070dfe\firebase-iid-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4e8b1e6eccccca8331222d0238d2a57f\play-services-measurement-impl-17.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4e8b1e6eccccca8331222d0238d2a57f\play-services-measurement-impl-17.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\dfd4aa399f946b6bb497761eba82e7d6\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\dfd4aa399f946b6bb497761eba82e7d6\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\e6d5e890a7348e32e700d6bbb1c35da9\jetified-firebase-database-17.0.0\AndroidManifest.xml:26:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\e6d5e890a7348e32e700d6bbb1c35da9\jetified-firebase-database-17.0.0\AndroidManifest.xml:29:9-33:19
+MERGED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\50f9d9050df2010e341e31c048e17eff\firebase-auth-19.1.0\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\50f9d9050df2010e341e31c048e17eff\firebase-auth-19.1.0\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\cf4747821f57b77f8a45e6dc5e79d8dd\play-services-measurement-api-17.2.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\cf4747821f57b77f8a45e6dc5e79d8dd\play-services-measurement-api-17.2.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6572031269ead5bf372de68642070dfe\firebase-iid-19.0.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6572031269ead5bf372de68642070dfe\firebase-iid-19.0.0\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\50f9d9050df2010e341e31c048e17eff\firebase-auth-19.1.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\e6d5e890a7348e32e700d6bbb1c35da9\jetified-firebase-database-17.0.0\AndroidManifest.xml:29:18-89
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\e6d5e890a7348e32e700d6bbb1c35da9\jetified-firebase-database-17.0.0\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\e6d5e890a7348e32e700d6bbb1c35da9\jetified-firebase-database-17.0.0\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\e6d5e890a7348e32e700d6bbb1c35da9\jetified-firebase-database-17.0.0\AndroidManifest.xml:31:17-109
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\50f9d9050df2010e341e31c048e17eff\firebase-auth-19.1.0\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\50f9d9050df2010e341e31c048e17eff\firebase-auth-19.1.0\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\50f9d9050df2010e341e31c048e17eff\firebase-auth-19.1.0\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\50f9d9050df2010e341e31c048e17eff\firebase-auth-19.1.0\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\50f9d9050df2010e341e31c048e17eff\firebase-auth-19.1.0\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\50f9d9050df2010e341e31c048e17eff\firebase-auth-19.1.0\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\50f9d9050df2010e341e31c048e17eff\firebase-auth-19.1.0\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\50f9d9050df2010e341e31c048e17eff\firebase-auth-19.1.0\AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\50f9d9050df2010e341e31c048e17eff\firebase-auth-19.1.0\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\50f9d9050df2010e341e31c048e17eff\firebase-auth-19.1.0\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\50f9d9050df2010e341e31c048e17eff\firebase-auth-19.1.0\AndroidManifest.xml:37:17-109
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\cf4747821f57b77f8a45e6dc5e79d8dd\play-services-measurement-api-17.2.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\cf4747821f57b77f8a45e6dc5e79d8dd\play-services-measurement-api-17.2.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6572031269ead5bf372de68642070dfe\firebase-iid-19.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6572031269ead5bf372de68642070dfe\firebase-iid-19.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4e8b1e6eccccca8331222d0238d2a57f\play-services-measurement-impl-17.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4e8b1e6eccccca8331222d0238d2a57f\play-services-measurement-impl-17.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\dfd4aa399f946b6bb497761eba82e7d6\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\dfd4aa399f946b6bb497761eba82e7d6\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4e8b1e6eccccca8331222d0238d2a57f\play-services-measurement-impl-17.2.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4e8b1e6eccccca8331222d0238d2a57f\play-services-measurement-impl-17.2.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4e8b1e6eccccca8331222d0238d2a57f\play-services-measurement-impl-17.2.0\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4e8b1e6eccccca8331222d0238d2a57f\play-services-measurement-impl-17.2.0\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\57e770c06f01e076352ec49b31841357\play-services-measurement-17.2.0\AndroidManifest.xml:49:13-87
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\cf4747821f57b77f8a45e6dc5e79d8dd\play-services-measurement-api-17.2.0\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\cf4747821f57b77f8a45e6dc5e79d8dd\play-services-measurement-api-17.2.0\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\cf4747821f57b77f8a45e6dc5e79d8dd\play-services-measurement-api-17.2.0\AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6572031269ead5bf372de68642070dfe\firebase-iid-19.0.0\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6572031269ead5bf372de68642070dfe\firebase-iid-19.0.0\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6572031269ead5bf372de68642070dfe\firebase-iid-19.0.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6572031269ead5bf372de68642070dfe\firebase-iid-19.0.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6572031269ead5bf372de68642070dfe\firebase-iid-19.0.0\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6572031269ead5bf372de68642070dfe\firebase-iid-19.0.0\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6572031269ead5bf372de68642070dfe\firebase-iid-19.0.0\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6572031269ead5bf372de68642070dfe\firebase-iid-19.0.0\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6572031269ead5bf372de68642070dfe\firebase-iid-19.0.0\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6572031269ead5bf372de68642070dfe\firebase-iid-19.0.0\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6572031269ead5bf372de68642070dfe\firebase-iid-19.0.0\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6572031269ead5bf372de68642070dfe\firebase-iid-19.0.0\AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\fa03aa00ddb60c22ea6ea5451bdbeaf5\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\fa03aa00ddb60c22ea6ea5451bdbeaf5\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\fa03aa00ddb60c22ea6ea5451bdbeaf5\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\fa03aa00ddb60c22ea6ea5451bdbeaf5\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\861a5143dc632d7b424f037d7b6f1c05\firebase-common-19.0.0\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\861a5143dc632d7b424f037d7b6f1c05\firebase-common-19.0.0\AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\861a5143dc632d7b424f037d7b6f1c05\firebase-common-19.0.0\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\861a5143dc632d7b424f037d7b6f1c05\firebase-common-19.0.0\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\861a5143dc632d7b424f037d7b6f1c05\firebase-common-19.0.0\AndroidManifest.xml:13:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\5cb4efa373c277ab44939b10d3ac6062\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\5cb4efa373c277ab44939b10d3ac6062\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\5cb4efa373c277ab44939b10d3ac6062\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
